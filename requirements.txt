@@ -1,5 +1,8 @@
 streamlit
-opencv-python-headless
-numpy
+streamlit-webrtc
+opencv-python
+mediapipe
 tensorflow>=2.10,<2.13
-
+numpy
+pandas
+scikit-learn
